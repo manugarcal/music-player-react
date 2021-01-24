@@ -1,0 +1,15 @@
+
+  .bottom {
+    bottom: 0;
+    position: fixed;
+    
+  }
+  .list-group-item-action:hover {
+    color: white;
+    background-color: #495057;
+  }
+
+  .list-group-item-action {
+    background-color: #b9bbbe;
+  }
+ 
